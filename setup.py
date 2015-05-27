@@ -8,8 +8,8 @@ def read(fname):
 
 setup(
     name = "tai64n",
-    version = "0.3.3",
-    url = 'http://bitbucket.org/hinnerk/py-tai64n/',
+    version = "0.3.4",
+    url = 'https://github.com/hinnerk/py-tai64/',
     license = 'BSD',
     description = "Converts TAI64(n) string to datetime.datetime (UTC) object.",
     long_description = read('README.md'),
